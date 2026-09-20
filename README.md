@@ -86,8 +86,6 @@ These projects represent my practical learning and portfolio development.
 | ----------------------------------- | ------------------------------------------------------------- | ------------ |
 | **Student Grade Management System** | Console-based student record and grade management application | Python       |
 
-> More projects will be added as I continue developing my Data Analysis and Software Engineering skills.
-
 ---
 
 ## Current Focus
@@ -152,10 +150,7 @@ I am applying these concepts to real datasets rather than learning them only thr
 ## Contribution Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Zahidullah18&hide_border=true"
-    alt="GitHub Contribution Streak"
-  >
+  <img src="https://streak-stats.demolab.com/?user=Zahidullah18&hide_border=true" alt="GitHub Contribution Streak">
 </p>
 
 ---
@@ -163,10 +158,7 @@ I am applying these concepts to real datasets rather than learning them only thr
 ## Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Zahidullah18/Zahidullah18/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  >
+  <img src="https://raw.githubusercontent.com/Zahidullah18/Zahidullah18/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
@@ -175,24 +167,12 @@ I am applying these concepts to real datasets rather than learning them only thr
 
 <p align="center">
   <a href="https://github.com/Zahidullah18">
-    <img
-      src="https://img.shields.io/github/followers/Zahidullah18?label=Followers&style=flat-square"
-      alt="GitHub Followers"
-    >
+    <img src="https://img.shields.io/github/followers/Zahidullah18?label=Followers&style=flat-square" alt="GitHub Followers">
   </a>
 
-<img
-src="https://img.shields.io/github/stars/Zahidullah18?label=Total%20Stars&style=flat-square"
-alt="GitHub Stars"
+  <img src="https://img.shields.io/github/stars/Zahidullah18?label=Total%20Stars&style=flat-square" alt="GitHub Stars">
 
->
-
-<img
-src="https://img.shields.io/github/last-commit/Zahidullah18/Zahidullah18?style=flat-square"
-alt="Last Commit"
-
->
-
+  <img src="https://img.shields.io/github/last-commit/Zahidullah18/Zahidullah18?style=flat-square" alt="Last Commit">
 </p>
 
 ---
@@ -222,13 +202,7 @@ I am interested in opportunities where I can apply and further develop my skills
 
 ### Target Roles
 
-`Data Analyst`
-`Junior Data Analyst`
-`BI Analyst`
-`Reporting Analyst`
-`Junior Data Scientist`
-`Python Developer`
-`Software Engineering Intern`
+`Data Analyst` · `Junior Data Analyst` · `BI Analyst` · `Reporting Analyst` · `Junior Data Scientist` · `Python Developer` · `Software Engineering Intern`
 
 ---
 
@@ -262,17 +236,11 @@ I focus on practical learning by turning concepts into working projects and usin
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zahid-ullah-b54944319/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    >
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
   <a href="https://github.com/Zahidullah18">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    >
+    <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
